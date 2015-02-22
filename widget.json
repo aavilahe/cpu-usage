@@ -1,0 +1,10 @@
+{
+    "name": "cpu-usage",
+    "description": "Shows cpu usage per core.",
+    "depends": {
+        "d3js": "http://d3js.org/",
+        "cpu_usage": "https://github.com/aavilahe/cpu_usage"
+        },
+    "author": "Aram Avila-Herrera",
+    "email": "aavilahe@users.noreply.github.com"
+}
