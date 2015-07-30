@@ -1,5 +1,7 @@
 # cpu-usage
 
+![screenshot](./screenshot.png)
+
 An [uebersicht](http://tracesof.net/uebersicht/)
 widget that displays cpu usage per core as a
 bar chart using the [D3](http://d3js.org/) library.
